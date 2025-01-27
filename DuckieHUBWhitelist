@@ -1,7 +1,7 @@
 ---- Whitelist system source ----
 local whitelist = {
     Usernames = {
-        "orruunestad",
+        "orruunest",
         "oven",
  
     },
