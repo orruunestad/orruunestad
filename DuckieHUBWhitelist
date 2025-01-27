@@ -2,7 +2,7 @@
 local whitelist = {
     Usernames = {
         "orruunest",
-        "oven",
+        "ov",
  
     },
     UserIds = {
