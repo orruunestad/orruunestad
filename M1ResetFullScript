@@ -1,0 +1,4 @@
+ -- NOT MY SCRIPT
+ -- I just put a whitelist on it.
+getgenv().DisableWarning = true
+loadstring
