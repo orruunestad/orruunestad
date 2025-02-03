@@ -11,8 +11,8 @@ NotificationBindable.OnInvoke = function(buttonPressed)
 end
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Thank You!";
-    Text = "Duckie Hub thanks you for supporting us!";
+    Title = "Duckie Hub";
+    Text = "Script created by notcyrus and oven!";
     Duration = 20;
     Button1 = "Dismiss";
     Button2 = "Copy Discord Link";
