@@ -1,10 +1,11 @@
 ---- Whitelist system source ----
 local whitelist = {
     Usernames = {
-        "orruunestad",
-        "mogotuomoga",
-        "orunestad",
-        "goldnfn",
+        "orruunestad", -- owner
+        "mogotuomoga", -- media
+        "orunestad", -- ???
+        "goldnfn", -- buyer
+        "awdhyawdwdagfg", -- buyer
  
     },
     UserIds = {
