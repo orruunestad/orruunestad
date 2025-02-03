@@ -1,0 +1,20 @@
+local NotificationBindable = Instance.new("BindableFunction")
+
+NotificationBindable.OnInvoke = function(buttonPressed)
+    if buttonPressed == "Copy Discord Link" then
+        if setclipboard then
+            setclipboard("https://discord.gg/hjeYpQpqXu")
+        else
+            warn("Clipboard copying is not supported in this environment.")
+        end
+    end
+end
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Thank You!";
+    Text = "Duckie Hub thanks you for supporting us!";
+    Duration = 20;
+    Button1 = "Dismiss";
+    Button2 = "Copy Discord Link";
+    Callback = NotificationBindable;
+})
