@@ -1,0 +1,4 @@
+getgenv().JERK_OFF_SPEED = 1.5 -- You can change this to affect the speed!
+getgenv().KEEP_ON_DEATH = true -- If true, gives you the jerk off tool when you respawn
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/orruunestad/refs/heads/main/FunnyTool")()
