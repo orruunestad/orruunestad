@@ -1,8 +1,0 @@
-local function pressKey1()
-    local tool = plr.Backpack:FindFirstChild("Flowing Water")
-    if tool then
-        tool.Parent = chr
-        wait(1)
-        tool.Parent = plr.Backpack
-    end
-end
