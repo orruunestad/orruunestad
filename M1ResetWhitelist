@@ -5,9 +5,7 @@ local whitelist = {
         "mogotuomoga", -- media
         "orunestad", -- friend
         "goldnfn", -- buyer
-        "awdhyawdwdagfg", -- buyer
-        "acedestorye" -- friend
- 
+        "awdhyawdwdagfg", -- buyer 
     },
     UserIds = {
         00000000,
