@@ -1,4 +1,1 @@
- -- NOT MY SCRIPT
- -- I just put a whitelist on it.
-getgenv().DisableWarning = true
 loadstring(game:HttpGet"https://raw.githubusercontent.com/orruunestad/orruunestad/refs/heads/main/M1Reset")()
