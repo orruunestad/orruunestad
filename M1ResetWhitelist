@@ -6,6 +6,7 @@ local whitelist = {
         "orunestad", -- friend
         "goldnfn", -- buyer
         "awdhyawdwdagfg", -- buyer 
+        "SoulCartr", -- premium winner
     },
     UserIds = {
         00000000,
