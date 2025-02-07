@@ -8,6 +8,8 @@ local whitelist = {
         "awdhyawdwdagfg", -- buyer 
         "SoulCartr", -- premium winner
         "aj110561_2", -- premium winner
+        "aj110561_4", -- premium winner
+
     },
     UserIds = {
         00000000,
