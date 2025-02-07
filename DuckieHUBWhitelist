@@ -5,6 +5,7 @@ local whitelist = {
         "mogotuomoga", -- co-owner
         "goldnfn", -- buyer
         "SoulCartr", -- premium winner
+        "aj110561_2", -- premium winner
  
     },
     UserIds = {
