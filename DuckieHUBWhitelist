@@ -9,6 +9,7 @@ local whitelist = {
         "aj110561_4", -- premium winner
         "guh_guh57",
         "acedestorye", -- premium buyer
+        "EvaderXYT", -- premium buyer
  
     },
     UserIds = {
