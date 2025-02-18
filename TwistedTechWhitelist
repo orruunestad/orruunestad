@@ -2,9 +2,10 @@
 local whitelist = {
     Usernames = {
         "orruunestad", -- owner
+        "aj110561_2", -- owner
+        "aj110561_4", -- owner
         "ketilma9", -- media
         "orunestad", -- friend
-        
 
     },
     UserIds = {
