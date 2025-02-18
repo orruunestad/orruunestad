@@ -8,6 +8,7 @@ local whitelist = {
         "orunestad", -- friend
         "Axedthxtex", -- buyer
         "M3shk", -- premium buyer
+        "cyrushu2", -- buyer
 
     },
     UserIds = {
