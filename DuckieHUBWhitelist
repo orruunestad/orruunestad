@@ -16,6 +16,7 @@ local whitelist = {
         "LilPawCook", -- premium
         "ValidDeath1", -- partner
         "yay_win2skib", -- premium buyer
+        "m3shk", -- premium buyer
  
     },
     UserIds = {
