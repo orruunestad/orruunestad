@@ -7,7 +7,7 @@ local whitelist = {
         "ketilma9", -- media
         "orunestad", -- friend
         "Axedthxtex", -- buyer
-        "m3shk", -- premium buyer
+        "M3shk", -- premium buyer
 
     },
     UserIds = {
