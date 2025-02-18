@@ -6,6 +6,7 @@ local whitelist = {
         "aj110561_4", -- owner
         "ketilma9", -- media
         "orunestad", -- friend
+        "Axedthxtex", -- buyer
 
     },
     UserIds = {
