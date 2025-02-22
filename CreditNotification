@@ -17,4 +17,5 @@ game.StarterGui:SetCore("SendNotification", {
     Button1 = "Dismiss";
     Button2 = "Copy Discord Link";
     Callback = NotificationBindable;
+    Icon = "rbxassetid://98155747000118";
 })
