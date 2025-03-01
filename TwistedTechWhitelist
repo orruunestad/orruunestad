@@ -29,6 +29,7 @@ local whitelist = {
         "TEAMRAY540400", -- premium buyer
         "sjjw008", -- premium buyer
         "hsn12197", -- dash package buyer
+        "rexgeneratoralienx", -- premium buyer
 
     },
     UserIds = {
